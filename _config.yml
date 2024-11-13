@@ -1,6 +1,7 @@
-title: Jekyll:iä käyttävä sivusto
-description: Tervetuloa sivustolle!
+title: "Jekyll:iä käyttävä sivusto"
+description: "Tervetuloa sivustolle!"
+url "https://github.com/Narie-creator/Teht-v-t/blob/main/index.html"
 =====================================
 
-theme: jekyll-theme-cayman
+theme: "jekyll-theme-cayman"
 Tästä se lähtee!
