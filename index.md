@@ -2,18 +2,19 @@
 layout: home
 ---
 
-# Welcome to My Awesome Site!
+# Jekylliä käyttävä sivusto
 
-This is the homepage of my Jekyll site using the Cayman theme. 
+Käytän tässä Slate -teemaa Jekyllin avulla
 
-## About Me
+### Viikko 1
+[Viikko 1](https://jekyllrb.com/).
 
-Here you can introduce yourself or tell visitors about your website. You can add links, images, and other Markdown content.
+### Viikko 2
+[Viikko 2](https://jekyllrb.com/).
 
-### Example Link
-[Click here to learn more about Jekyll](https://jekyllrb.com/).
+### Viikko 3
+Viikko 3
 
-### Example Image
-![Your Image](assets/images/your-image.jpg)
+### Viikko 4
+Viikko 4
 
-You can customize this text however you like, and use Markdown for headings, lists, links, images, etc.
