@@ -1,7 +1,9 @@
+---
+layout: default
+title: "Home"
+---
 
 # Jekylliä käyttävä sivusto
-
----
 
 Käytän tässä Slate -teemaa Jekyllin avulla
 
