@@ -1,5 +1,4 @@
----
-layout: home
+
 ---
 
 # Jekylliä käyttävä sivusto
