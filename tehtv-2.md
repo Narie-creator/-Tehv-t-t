@@ -1,1 +1,4 @@
 ## Tehtävä 2
+GitHub Actions on GitHub:in sisäänrakennettu ominaisuus, jolla voidaan nopeuttaa sekä helpottaa sivuston luomista ja sen erilaisten ominaisuuksien käyttöönottamista. Tällaisia erilaisia ominaisuuksia ovat muun muassa automaattiset testaukset, joilla GitHub tutkii sivuston toimivuutta ja responsiivisuutta. Toinen esimerkki ovat tietyn aikavälin päivitykset, joiden avulla sivusto pidetään ajan tasalla ilman, että ylläpitäjän tarvitsee itse käyttää sivustoon niin paljon aikaa. 
+
+CI/CD -putkisto voidaan rakennetaan koodilla joka koostuu monista eri osioista kuten sivuston nimestä sekä tietyistä "taskeista", joita GitHub soveltaa kyseiseen sivustoon. Tällaiset työt voivat olla triggeröityjä (esim. Push-toiminnolla), tai ajastettuja (tiettyinä tunteina, päivämäärinä, jne.), ja GitHub hoitaa ne automaattisesti. 
